@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MiniQDriver	KEYWORD1
+MotorDriver	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setSpeedPercent	KEYWORD2
+getSpeedPercent	KEYWORD2
+setSpeedConvert	KEYWORD2
+setSpeedPWM	KEYWORD2
+getSpeedPWM	KEYWORD2
+setMode	KEYWORD2
+setModeSpeedPWM	KEYWORD2
+setModeSpeedPercent	KEYWORD2
+waitRenew	KEYWORD2
+renewConf	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+motor1	KEYWORD3
+motor2	KEYWORD3
+STOP	KEYWORD3
+MOVE_FORWARD	KEYWORD3
+MOVE_BACKWARD	KEYWORD3
+TURN_LEFT	KEYWORD3
+TURN_RIGHT	KEYWORD3
