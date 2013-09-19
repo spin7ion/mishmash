@@ -1,0 +1,5 @@
+PPM	KEYWORD1
+setPPMLength	KEYWORD2
+ppmMode	KEYWORD2
+ppmWrite	KEYWORD2
+ppmRead	KEYWORD2
